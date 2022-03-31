@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kwockeeez
+- 👋 Hi, I’m kwockeeez
 - 👀 I’m interested in C, C++ and CGI
 - 🌱 I’m currently learning in KhPI
-- 📫 How to reach me kwockeeez@gmail.com or Telegram @kwockeeez
+- 📫 How to reach me kwockeeez@gmail.com
 
 <!---
 kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
