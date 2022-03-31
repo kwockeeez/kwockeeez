@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kwockeeez
-- 👀 I’m interested in C, C++ and CGI
+- 👀 I’m interested in C, C++ and CGI graphics
 - 🌱 I’m currently learning in KhPI
 - 📫 How to reach me kwockeeez@gmail.com
 
