@@ -1,4 +1,4 @@
-[![MasterHead](./images/game-room.gif)](https://github.com/kwockeeez)
+[![MasterHead](./images/wallpaper.png)](https://github.com/kwockeeez)
 
 - 👋 Hi, I’m kwockeeez
 - 👀 I’m interested in C, C++ and CGI graphics
