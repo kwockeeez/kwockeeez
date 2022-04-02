@@ -1,4 +1,4 @@
-[![MasterHead]https://cdn.wallpapersafari.com/55/83/Pl6QHc.jpg]https://github.com/kwockeeez
+[![MasterHead](https://cdn.wallpapersafari.com/55/83/Pl6QHc.jpg)](https://github.com/kwockeeez)
 
 - 👋 Hi, I’m kwockeeez
 - 👀 I’m interested in C, C++ and CGI graphics
