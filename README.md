@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning in KhPI
 - 📫 How to reach me kwockeeez@gmail.com
 
-![Kwockeeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwockeeez&include_all_commits&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwockeeez&layout=compact&langs_count=3&hide=makefile)](https://github.com/kwockeeez)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwockeeez&count_private=trueh&hide=issues,contribs&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwockeeez&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
