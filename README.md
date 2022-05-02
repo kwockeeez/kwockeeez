@@ -25,7 +25,8 @@
 <br><hr>
 
 ### Snake eating contributions graph
-![snake gif](https://github.com/kwockeeez/kwockeeez/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kwockeeez/kwockeeez/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
