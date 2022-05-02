@@ -12,20 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwockeeez&layout=compact&hide_border=true&langs_count=6" />
 </a>
 
-<br><hr>
-
-### Snake eating contributions graph
 ![snake gif](https://github.com/kwockeeez/kwockeeez/blob/output/github-contribution-grid-snake.svg)
-
-<br><hr>
-
-### Top Repositories
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwockeeez&repo=php-sample-blog&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwockeeez&repo=kwockeeez.github.io&theme=default" />
-</a>
 
 <!---
 kwockeeez/kwockeeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
