@@ -2,8 +2,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kwockeeez&show_icons=true&count_private=true&hide=issues,contribs&include_all_commits&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwockeeez&layout=compact&hide_border=true&langs_count=6" />
 </a>
 
