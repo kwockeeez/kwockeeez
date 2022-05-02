@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'am <a href="https://kwockeeez.github.io/" target="_blank">Yan</a> 
+<h1 align="center">Hi there, I'am <a href="https://kwockeeez.github.io/" target="_blank">はちじゅうさん Yan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Ukraine 🇺🇦</h3>
 
